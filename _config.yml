@@ -1,0 +1,12 @@
+# Site settings
+title: FabLab de Guéret
+email: martin.sam@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  FabLab de Guéret - Département de la Creuse 23.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fablabgueret.github.io/" # the base hostname & protocol for your site
+twitter_username: martinsam
+github_username:  martinsam
+
+# Build settings
+markdown: kramdown
