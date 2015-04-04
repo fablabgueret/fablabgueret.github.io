@@ -3,8 +3,16 @@ layout: default
 ---
 
 <div class="home">
+<p>
+  Un fab lab (contraction de l'anglais fabrication laboratory, « laboratoire de fabrication ») est un lieu ouvert au public où il est mis à sa disposition toutes sortes d'outils, notamment des machines-outils pilotées par ordinateur, pour la conception et la réalisation d'objets.
+</p>
 
-  <h1 class="page-heading">Posts</h1>
+<p>
+La caractéristique principale des fab lab est leur « ouverture ». Ils s'adressent aux entrepreneurs, aux designers, aux artistes, aux bricoleurs, aux étudiants ou aux hackers en tout genre, qui veulent passer plus rapidement de la phase de concept à la phase de prototypage, de la phase de prototypage à la phase de mise au point, de la phase de mise au point à celle de déploiement, etc. Ils regroupent différentes populations, tranches d'âge et métiers différents. Ils constituent aussi un espace de rencontre et de création collaborative qui permet, entre autres, de fabriquer des objets uniques: objets décoratifs, objets de remplacement, prothèses, orthèses, outils…
+</p>
+
+
+  <h1 class="page-heading">Listes des articles</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -18,6 +26,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">S'abonner <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
