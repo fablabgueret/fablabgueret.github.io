@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ateliers
-permalink: /ateliers/
+title: Projets
+permalink: /projets/
 ---
 
 Vous avez la possibilité de rejoindre un des projets suivants ou de rajouter le votre.
