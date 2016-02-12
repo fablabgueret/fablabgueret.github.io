@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dispositif de phototaxie
+title:  "Dispositif de phototaxie"
 date:   2016-02-12 09:44:07
 categories: arduino
 ---
