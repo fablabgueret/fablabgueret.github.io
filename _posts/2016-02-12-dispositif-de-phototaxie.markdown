@@ -18,7 +18,7 @@ Permettant à un véhicule de se diriger vers la lumière
 2. Faire agir le servo-moteur en direction de l'éclairement le plus grand.
 
 # Schéma
-
+![schema](https://cloud.githubusercontent.com/assets/34697/13004431/be8095ec-d17b-11e5-86f4-61ed0317e9c8.png)
 
 # Matériel
 - Photo-résistances		2u
