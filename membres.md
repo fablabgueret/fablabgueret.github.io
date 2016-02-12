@@ -7,4 +7,4 @@ permalink: /membres/
 - Baptiste Ridoux
 - Eric Durand
 - Jean-Marc Escalle
-- Samuel Martin [Twitter](https://twitter.com/martinsam)
+- Samuel Martin [Blog perso](http://samuel-martin.me/) -  [Blog pro](http://blog.creaone.fr) -  [Twitter](https://twitter.com/martinsam)
