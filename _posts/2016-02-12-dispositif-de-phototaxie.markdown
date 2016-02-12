@@ -29,7 +29,7 @@ Permettant à un véhicule de se diriger vers la lumière
 
 # Code
 
-{% highlight arduino %}
+{% highlight c %}
 // Direction d'un mobile vers une source de lumière
 
 // Modules à consulter :
