@@ -1,3 +1,9 @@
+---
+layout: page
+title: Membres
+permalink: /membres/
+---
+
 - Baptiste Ridoux
 - Eric Durand
 - Jean-Marc Escalle
