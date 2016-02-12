@@ -27,6 +27,8 @@ Permettant à un véhicule de se diriger vers la lumière
 - Condensateur 100µF	1u
 
 
+![materiel](https://cloud.githubusercontent.com/assets/34697/13004514/24a82d12-d17c-11e5-96e5-f9657dad417e.png)
+
 # Code
 
 {% highlight c %}
