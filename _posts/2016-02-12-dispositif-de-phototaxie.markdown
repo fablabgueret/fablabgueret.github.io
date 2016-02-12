@@ -8,7 +8,7 @@ categories: arduino
 
 Permettant à un véhicule de se diriger vers la lumière
 
- Exercices Arduino à consulter
+# Exercices Arduino à consulter
 - 05 Indicateur d'humeur
 - 06 Thérémine
 
